@@ -10,13 +10,17 @@ The specified goals inculuded:
 * Determining Ticket Sales Details
 * Improving Ease of Travel
 * Enhancing Market Position
-  
-  
+    
 ## 🛠️ Tools Used
 * #### MySQL
 * #### MySQL Workbenck
 * #### Key SQL Concepts (Joins, Subqueries, Stored Procedures, Functions, Views, Window Functions, and Performance Tuning)
-   
+
+  
+## 🛬 Air Cargo Analysis: Project Tasks
+### Phase 1: Database Design & Basic Analysis
+#### 1) ER Diagram for the Airlines Database
+
 
 
 
