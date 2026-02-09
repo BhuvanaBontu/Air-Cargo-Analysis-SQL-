@@ -20,7 +20,129 @@ The specified goals inculuded:
 ## 🛬 Air Cargo Analysis: Project Tasks
 ### Phase 1: Database Design & Basic Analysis
 #### ER Diagram for the Airlines Database
-![ER Diagram] (./path-to-your-image/task1.png)
+<p align="center">
+<img src="task1.png"
+  width="800">
+</p>
+
+#### Creating and importing Data into Customer, Routes and Ticket Tables
+<p align="center">
+<img src="task2.png"
+  width="800">
+</p>
+
+#### Passenger Records for Routes 1 to 25
+<p align="center">
+<img src="task3.png"
+  width="800">
+</p>
+
+#### Business Class Passenger and Ticket Revenue Analysis
+<p align="center">
+<img src="task4.png"
+  width="800">
+</p>
+
+#### Customer Full Name Extraction
+<p align="center">
+<img src="task5.png"
+  width="800">
+</p>
+
+#### Registered Customer Details and Booking Status
+<p align="center">
+<img src="task6.png"
+  width="800">
+</p>
+
+#### Customers who Booked Tickets in 'Emirates' Brand
+<p align="center">
+<img src="task7.png"
+  width="800">
+</p>
+
+#### Customers who Traveled in Economy Plus Class
+<p align="center">
+<img src="task8.png"
+  width="800">
+</p>
+
+#### Total Revenue Check (Revenue > $10,000)
+<p align="center">
+<img src="task9.png"
+  width="800">
+</p>
+
+### Phase 2: Intermediate Queries & Views
+#### Setting up Permission
+<p align="center">
+<img src="task10.png"
+  width="800">
+</p>
+
+#### Maximum Ticket Price for each Class using Window function
+<p align="center">
+<img src="task11.png"
+  width="800">
+</p>
+
+#### Customer Details of Route 4 
+<p align="center">
+<img src="task12.png"
+  width="800">
+</p>
+
+#### Execution plan of Passengers reaching their Destination
+<p align="center">
+<img src="task13.png"
+  width="800">
+</p>
+
+#### Total Revenue Generated per Customer (Rollup)
+<p align="center">
+<img src="task14.png"
+  width="800">
+</p>
+
+#### View Creation for Business Class Customers
+<p align="center">
+<img src="task15.png"
+  width="800">
+</p>
+
+### Phase 3: Advanced SQL (Stored Procedures & Functions)
+#### Stored Procedure for Dynamic Route Details
+<p align="center">
+<img src="task16.png"
+  width="800">
+</p>
+
+#### Stored Procedure for Routes with Distance > 2000 Miles
+<p align="center">
+<img src="task17.png"
+  width="800">
+</p>
+
+#### Stored Procedure for Distance Categorization
+<p align="center">
+<img src="tas18.png"
+  width="800">
+</p>
+
+#### Stored Function for Complimentary Service Eligibility
+<p align="center">
+<img src="task19.png"
+  width="800">
+</p>
+
+#### Cursor Implementation for Last Name 'Scott'
+<p align="center">
+<img src="task20.png"
+  width="800">
+</p>
+
+
+
 
 
 
