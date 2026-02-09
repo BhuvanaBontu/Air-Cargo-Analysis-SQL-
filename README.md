@@ -125,7 +125,7 @@ The specified goals inculuded:
 
 #### Stored Procedure for Distance Categorization
 <p align="center">
-<img src="tas18.png"
+<img src="task18.png"
   width="800">
 </p>
 
