@@ -19,7 +19,9 @@ The specified goals inculuded:
   
 ## 🛬 Air Cargo Analysis: Project Tasks
 ### Phase 1: Database Design & Basic Analysis
-#### 1) ER Diagram for the Airlines Database
+#### ER Diagram for the Airlines Database
+![ER Diagram] (./path-to-your-image/task1.png)
+
 
 
 
